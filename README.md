@@ -36,3 +36,6 @@
 
 <img src="https://www.sarfarazlaghari.com/assets/uploads/2021/01/2-1024x502.png">
 <h5>Transactions List</h5>
+
+<img src="https://www.sarfarazlaghari.com/assets/uploads/2021/01/3-1024x501.png">
+<h5>Inventory Statistics</h5>
