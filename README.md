@@ -28,3 +28,5 @@
 </ul>
 
 <p>Here are some snippets of the system:</p>
+<img src="https://www.sarfarazlaghari.com/assets/uploads/2021/01/4-1-1024x506.png">
+<h5>Login/Registration</h5>
