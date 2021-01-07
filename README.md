@@ -8,5 +8,8 @@
     <li>Manage sales, payments, and transactions.</li>
     <li>View clients’ payment history.</li>
 </ul>
+<h1>Requirements</h1>
+<p>PHP between 7.0 and 7.1 - migration to newer symfony is needed before we support current php 7.x</p>
+<p>A MySQL or PostgreSQL database</p>
 <p>Here are some snippets of the system:</p>
 
