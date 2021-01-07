@@ -33,3 +33,6 @@
 
 <img src="https://www.sarfarazlaghari.com/assets/uploads/2021/01/1-768x377-1.png">
 <h5>Dashboard</h5>
+
+<img src="https://www.sarfarazlaghari.com/assets/uploads/2021/01/2-1024x502.png">
+<h5>Transactions List</h5>
